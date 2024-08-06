@@ -1,6 +1,6 @@
 # Fashion Product Image-to-Text Prediction
 
-This project aims to predict the display names of fashion products from images using two distinct approaches. The dataset comprises fashion product images and their attributes, such as category, color, brand, and season. Our goal is to convert these images into descriptive display names.
+This project aims to predict the display names of fashion products from images using two distinct approaches. The dataset comprises fashion product images and their attributes, such as category, color, brand, and season. The goal is to convert these images into descriptive display names.
 
 ## Dataset
 
@@ -15,11 +15,13 @@ The dataset used for this project is the [Fashion Product Images Dataset](https:
   <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle">
 </a>
 
-For the classification tasks, we utilize a pre-trained model developed for multi-label classification of fashion products. You can find the details and code for this model in the [Fashion Product Multilabel Classification repository](https://github.com/i4mShayan/Fashion-Product-Multilabel-Classification).
+For the approaches below, I utilize a pre-trained model developed for multi-label classification of fashion products.
+
+You can find the details and code for this model in the [Fashion Product Multilabel Classification repository](https://github.com/i4mShayan/Fashion-Product-Multilabel-Classification).
 
 ## Approaches
 
-We implemented two approaches to tackle the image-to-text prediction problem:
+Implemented two approaches to tackle the image-to-text prediction problem:
 
 ### Approach One: End-to-End Transfer Learning with RNN
 
