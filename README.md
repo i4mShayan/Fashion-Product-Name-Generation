@@ -1,6 +1,6 @@
 # Fashion Product Image-to-Text Prediction
 
-This project aims to predict the display names of fashion products from images using two distinct approaches. The dataset comprises fashion product images and their attributes, such as category, color, brand, and season. The goal is to convert these images into descriptive display names.
+This project aims to predict the display names of fashion products from images using two distinct approaches. The dataset comprises fashion product images and their attributes, such as category, color, season, etc. The goal is to convert these images into descriptive display names.
 
 ## Dataset
 
